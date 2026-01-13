@@ -115,8 +115,8 @@ Python 3.9+ (for ML model training)
 Installation
 bash
 # Clone repository
-git clone https://github.com/Anshag45/Aqua-Sense-AI.git
-cd aqua-sense-ai
+git clone https://github.com/KillerHeller6203/Aqua-Sense-AI.git
+cd Aqua-Sense-AI
 
 # Install dependencies
 npm run setup
